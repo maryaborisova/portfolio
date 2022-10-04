@@ -87,5 +87,5 @@
 
 ## Презентация и дашборд   
 
-[Презентация](https://docs.google.com/presentation/d/1QMlFD7v3gLLjzWyxBwA9i-U8807rfYSZ/edit?usp=sharing&ouid=112108405567953447801&rtpof=true&sd=true)  
+[Презентация]([https://docs.google.com/presentation/d/1QMlFD7v3gLLjzWyxBwA9i-U8807rfYSZ/edit?usp=sharing&ouid=112108405567953447801&rtpof=true&sd=true](https://drive.google.com/file/d/1DjqHGW4IOtyiczUzabvud1G0R2bTn97J/view?usp=sharing))  
 [Дашборд (два набора)](https://public.tableau.com/app/profile/mary5190/viz/AppsThinks/Dashboard1)
