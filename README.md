@@ -10,10 +10,12 @@
 - SQL-запросы 
 - презентации
 - дашборды
+- классификация и кластеризация
+- прогноз вероятности
     
 ### Для выполнения проектов были использованы инструменты и библиотеки:
 
-- Python (Pandas, Matplotlib, NumPy, SciPy, Seaborn, Plotly, Math)
+- Python (Pandas, Matplotlib, NumPy, SciPy, Seaborn, Plotly, Math, Sklearn)
 - SQL (Postgre SQL, SQLAlchemy)
 - dash
 - Tableau
