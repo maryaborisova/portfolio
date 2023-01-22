@@ -12,3 +12,6 @@
 
 ## Данные:
 статистика провайдера телефонии
+
+## Результат:
+[Отчет](https://drive.google.com/file/d/1FeyS5FxCj5VdMFykvzZgAGLg1rx5MO6e/view?usp=share_link)
