@@ -14,4 +14,4 @@
 статистика провайдера телефонии
 
 ## Результат:
-[Отчет](https://drive.google.com/file/d/1-rKT_wy_ixG5z5mBI2HhyCP5vVqfKWV4/view?usp=share_link)
+[Отчет](https://github.com/maryaborisova/portfolio/blob/main/report_for_telecom/report_for_telecom.pdf)
