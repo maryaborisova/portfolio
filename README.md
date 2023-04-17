@@ -14,7 +14,7 @@
     
 ### Для выполнения проектов были использованы инструменты и библиотеки:
 
-- Excel
+- Excel, Power BI, Power Query
 - Python (Pandas, Matplotlib, NumPy, SciPy, Seaborn, Plotly, Math, Sklearn)
 - SQL (Postgre SQL, SQLAlchemy)
 - dash
